@@ -1,0 +1,13 @@
+python-terraform       #Terraform
+boto3                  # AWS SDK for Python
+azure-mgmt-resource    # Azure Resource Management SDK
+ansible                # Ansible for infrastructure automation
+docker                 # Docker SDK for Python
+kubernetes             # Kubernetes Python client
+requests               # HTTP library
+jinja2                 # Templating library, used by Ansible and others
+paramiko               # SSH and SFTP client for Python
+pyyaml                 # YAML parser and emitter for Python
+elasticsearch          # Python client for Elasticsearch
+logstash-formatter     # Logstash logging formatter for Python's logging module
+
